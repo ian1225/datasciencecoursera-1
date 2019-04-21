@@ -1,2 +1,2 @@
 # datasciencecoursera
- Data science course project powered by coursera
+Data Scientist's Toolbox - Johns Hopkins University (Coursera Course)
